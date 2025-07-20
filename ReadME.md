@@ -21,10 +21,15 @@ Each worker can handle thousands of connections concurrently without blocking ot
 **Common Use Cases**
 
 **Web Server** – Serves static files like HTML, CSS, JS, images.
+
 **Reverse Proxy** – Forwards client requests to backend servers (e.g., Node.js, Python, Java apps).
+
 **Load Balancer** – Distributes traffic across multiple servers to improve performance and reliability.
+
 **SSL/TLS Termination** – Handles HTTPS encryption/decryption.
+
 **Caching** – Stores responses to reduce load on backend services.
+
 **API Gateway** – Routes and manages API traffic in microservices architectures.
 
 `Example used AIRBNB`
