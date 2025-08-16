@@ -62,3 +62,5 @@ In NGINX, configuration is built around a set of directives and blocks that defi
 						location	Defines how to respond to specific URL paths
 						upstream	Defines backend servers for load balancing
 						events	    Controls connection processing
+
+
